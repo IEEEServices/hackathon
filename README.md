@@ -9,7 +9,7 @@ For team and mentor registration, please go to the event website: https://ieeese
 
 We can obtain our own personal daily mobility trajectories/traces using Google Location Service from Google Takeout, Integrating such information from individuals could benefit a number of use scenarios. For example, for pandemic control and precaution purposes, users can query whether they have been in the proximity of high-risk areas. In addition, such information can be used to for social recommendation, product recommendation, user profile analysis and so on. However, the privacy concerns pose significant challenges to unlocking of the hidden values in such data. The problem is simply how we can integrate such personal mobility information without disclosing anything sensitive, and in the meanwhile, the integrated set of individual mobility histories should be available for query, visualization, analytics and even model training collectively. Various technologies such as differential privacy [1, 2], encryption [3, 4], federated learning [5, 6], federated database [7], may be beneficial in addressing the problem.
 
-![event](/images/mobility.png)
+![event](https://miro.medium.com/max/3586/1*OMkT_8pxA3cICfLOQjqk0g.png)
 
 ##  Motivating scenarios (use cases)
 
