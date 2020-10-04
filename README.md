@@ -2,7 +2,7 @@
 
 For team and mentor registration, please go to the event website: https://ieeeservices.github.io/
 
-![ieee](/images/logo-icws-new.png)
+![ieee](/images/logo-icws-new.png =100x100)
 
 
 ##  Introduction
