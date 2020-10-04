@@ -4,6 +4,8 @@
 
 We can obtain our own personal daily mobility trajectories/traces using Google Location Service from Google Takeout, Integrating such information from individuals could benefit a number of use scenarios. For example, for pandemic control and precaution purposes, users can query whether they have been in the proximity of high-risk areas. In addition, such information can be used to for social recommendation, product recommendation, user profile analysis and so on. However, the privacy concerns pose significant challenges to unlocking of the hidden values in such data. The problem is simply how we can integrate such personal mobility information without disclosing anything sensitive, and in the meanwhile, the integrated set of individual mobility histories should be available for query, visualization, analytics and even model training collectively. Various technologies such as differential privacy [1, 2], encryption [3, 4], federated learning [5, 6], federated database [7], may be beneficial in addressing the problem.
 
+![event](/images/mobility.png)
+
 ##  Motivating scenarios (use cases)
 
 We give four use scenarios of the integrated mobility data to further analyze the requirements. Your solution should be focused on one scenario, which can be one of, but not limited to any of these scenarios.
@@ -46,6 +48,7 @@ TEE and Intel-SGX, e.g., https://github.com/openenclave/openenclave
 
 Python cryptograph libraries, e.g. https://github.com/pyca/cryptography
 
+
 ##  List of expected deliverables
 
 #### Source code that must be uploaded to an open github repository and must have a well-documented README file describing the steps of using the product;
@@ -54,15 +57,15 @@ Python cryptograph libraries, e.g. https://github.com/pyca/cryptography
 
 #### A report no more than 6 pages that describes:
 
-1. the motivation,
+1. The motivation,
 
-2. use scenario,
+2. Use scenario,
 
-3. at which level privacy preserving is provided and explanation of how privacy preserving is provided,
+3. At which level privacy preserving is provided and explanation of how privacy preserving is provided,
 
-4. technologies used,
+4. Technologies used,
 
-5.  novelty of the product; 
+5. Novelty of the product; 
 
 The report must contain the url to the github repository and the link to the youtube video.
 
