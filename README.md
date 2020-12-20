@@ -96,6 +96,10 @@ The evaluation will be conducted in Gavel platform based on pairwise comparison,
 
 A team should have no more than six persons;
 
+##  Submission Deadline
+
+All submissions need to be finalized by Monday Dec 21, noon Eastern Standard Time, Time zone in New York, NY (GMT-5). 
+
 ##   References
 
 [1] Dwork, C. (2008, April). Differential privacy: A survey of results. In International conference on theory and applications of models of computation (pp. 1-19). Springer, Berlin, Heidelberg.
