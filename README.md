@@ -1,9 +1,19 @@
-# Privacy-Preserving Integration of Personal Mobility Information
-
-For team and mentor registration, please go to the event website: https://ieeeservices.github.io/
+# About IEEE Services Hackathon
 
 <img src="/images/logo-icws-new.png" width="100">
 
+IEEE Services Hackathon is an event collocated with the 2020 IEEE World Congress on Services (SERVICES 2020), and is sponsored by the IEEE Computer Society. The IEEE Computer Society established the services computing initiative two decades ago in response to the fast-growing service industry as well as the exponential rise in computing professionals.
+
+For team and mentor registration, please go to the event website: https://ieeeservices.github.io/
+
+## Scope of the Hackathon Challenges
+
+We are looking for any innovative solutions that address societal impactful problems, such as the current COVID-19 pandemic crisis. We prefer to solutions that take privacy and security into account in analyzing sensitive data. 
+
+Below we give one examplar description of a challenge (Privacy-Preserving Integration of Personal Mobility Information) that fits into the scope of this Hackathon. But teams are free to either solve this examplar challenge or define their own challenges. Please send your Hackathon mentors for any questions you may have about either this examplar challenge below or your own proposed challenges.
+
+
+# Privacy-Preserving Integration of Personal Mobility Information
 
 ##  Introduction
 
@@ -72,11 +82,11 @@ Python cryptograph libraries, e.g. https://github.com/pyca/cryptography
 
 5. Novelty of the product; 
 
-The report must contain the url to the GitHub repository and the link to the YouTube video.
+The report must either contain the url to the GitHub repository or the link to the YouTube video.
 
 #### An emulation of the application should be easily setup in one desktop through docker containers (i.e., local host service + local application emulation). The GitHub repository should detail the steps for repeatability using docker containers. 
 
-##  Evaluation criteria
+# Evaluation criteria
 
 The evaluation will be conducted in Gavel platform based on pairwise comparison, based on Gavel's algorithm (https://www.anishathalye.com/2015/03/07/designing-a-better-judging-system). We will recommend our judges to consider following criteria when conducting pairwise comparisons.
 
@@ -92,15 +102,15 @@ The evaluation will be conducted in Gavel platform based on pairwise comparison,
 5.	Performance, usability, and reliability of the system (0-9 scale)
 
 
-##   Team Formation
+#  Team Formation
 
 A team should have no more than six persons;
 
-##  Submission Deadline
+#  Submission Deadline
 
 All submissions need to be finalized by Monday Dec 21, noon Eastern Standard Time, Time zone in New York, NY (GMT-5). 
 
-##   References
+#  References
 
 [1] Dwork, C. (2008, April). Differential privacy: A survey of results. In International conference on theory and applications of models of computation (pp. 1-19). Springer, Berlin, Heidelberg.
 
