@@ -1,3 +1,34 @@
+# Announcement 
+
+We're pleased to announce the winning teams for this year's Hackathon.
+
+Out of 10 teams who registered for this hackathon world wide, the committee have carefully evaluated the all the final valid submissions, including their designs, technical reports, and their open source repos as submitted on the Hackathon's Github. The committee also attended the team's online presentation and/or listened to their presentation recordings afterwards. 
+
+Based on a rigorous evaluation process, the committee unanimously decided to choose the following top two teams to equally share this year's Hackathon Top Winning Awards (without any particular order):
+
+- Team 1 with Team Name: Hackathon-ND
+  * Project: Blind U-Net for Secure COVID-19 CT Segmentation
+  * Team members: 
+    * Song Bian, Kyoto University
+    * Dewen Zeng, University of Notre Dame
+    * Xinrong Hu, University of Notre Dame
+    * Qing Lu, University of Notre Dame
+    * Weiwen Jiang, University of Notre Dame
+    * Mentor: Prof. Yiyu Shi, University of Notre Dame
+
+- Team 2 with Team Name: Hackathon-GMU
+  * Project: Federated Learning system for Transportation Mode Prediction based on Personal Mobility Data
+  * Team members: 
+    * Fuxun Yu, George Mason University
+    * Zirui Xu, George Mason University
+    * Zhuwei Qin, San Francisco State University
+    * Xinda Wang, George Mason University 
+    * Mentor: Prof. Xiang Chen, George Mason University
+
+Congratulations to the two winning teams!!
+
+
+
 # About IEEE Services Hackathon
 
 <img src="/images/logo-icws-new.png" width="100">
